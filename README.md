@@ -339,7 +339,7 @@ The complete project report containing all eight phases is available here:
 The complete project demonstration video will be available through the Google Drive link below.
 
 **Google Drive Video Link:**  
-`[PASTE GOOGLE DRIVE LINK HERE](https://drive.google.com/file/d/1n-FMtacxT7LORkD4AD_BSkFDU2I699Kq/view?usp=sharing)`
+`https://drive.google.com/file/d/1n-FMtacxT7LORkD4AD_BSkFDU2I699Kq/view?usp=sharing`
 
 ---
 
